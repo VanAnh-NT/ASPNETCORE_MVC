@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEVMASTER\\netcoreMVC_learn\\ASPNETCORE_MVC\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA23CE1-5B83-4644-B363-0002D648681C}|lab5\\lab5.csproj|d:\\devmaster\\netcoremvc_learn\\aspnetcore_mvc\\lab5\\lab5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA23CE1-5B83-4644-B363-0002D648681C}|lab5\\lab5.csproj|solutionrelative:lab5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA23CE1-5B83-4644-B363-0002D648681C}|lab5\\lab5.csproj|d:\\devmaster\\netcoremvc_learn\\aspnetcore_mvc\\lab5\\lab5\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA23CE1-5B83-4644-B363-0002D648681C}|lab5\\lab5.csproj|solutionrelative:lab5\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA23CE1-5B83-4644-B363-0002D648681C}|lab5\\lab5.csproj|d:\\devmaster\\netcoremvc_learn\\aspnetcore_mvc\\lab5\\lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FA23CE1-5B83-4644-B363-0002D648681C}|lab5\\lab5.csproj|solutionrelative:lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\netcoreMVC_learn\\ASPNETCORE_MVC\\lab5\\lab5\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "lab5\\Models\\Product.cs",
+              "ToolTip": "D:\\DEVMASTER\\netcoreMVC_learn\\ASPNETCORE_MVC\\lab5\\lab5\\Models\\Product.cs",
+              "RelativeToolTip": "lab5\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:21:04.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DEVMASTER\\netcoreMVC_learn\\ASPNETCORE_MVC\\lab5\\lab5\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "lab5\\Models\\Category.cs",
+              "ToolTip": "D:\\DEVMASTER\\netcoreMVC_learn\\ASPNETCORE_MVC\\lab5\\lab5\\Models\\Category.cs",
+              "RelativeToolTip": "lab5\\Models\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:08:54.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DEVMASTER\\netcoreMVC_learn\\ASPNETCORE_MVC\\lab5\\lab5\\appsettings.json",
+              "RelativeDocumentMoniker": "lab5\\appsettings.json",
+              "ToolTip": "D:\\DEVMASTER\\netcoreMVC_learn\\ASPNETCORE_MVC\\lab5\\lab5\\appsettings.json",
+              "RelativeToolTip": "lab5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T02:02:20.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
