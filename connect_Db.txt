@@ -1,0 +1,3 @@
+"ConnectionStrings": {
+    "BookStoreString": "Server=LAPTOP-2PV14D8E\\MSQL;DataBase=BookStore;MultipleActiveResultSets=True;TrustServerCertificate=True;Integrated Security=True;"
+  }
